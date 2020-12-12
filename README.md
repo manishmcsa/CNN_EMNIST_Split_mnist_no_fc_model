@@ -1,0 +1,2 @@
+# CNN_EMNIST_Split_mnist_no_fc_model
+CNN_EMNIST_Split_mnist_no_fc_model
