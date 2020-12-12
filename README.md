@@ -19,4 +19,4 @@ Features of the model are below:
 3. Training works on GPU.
 4. Code has calcutaion of Input, Outout and receptive field value for Conv2d layers in the model.
 5. Total epochs run for the model are 20.
-6. Accuracy of model training is 77%
+6. Accuracy of model training is 85%
